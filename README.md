@@ -3,6 +3,9 @@
 ### Description
 A mood tracking app using vanilla javascript and localstorage. This app can be used as a starting page in your browser, so you remember to track your moods regularly.
 
+### Working Demo
+View a preview of the mood tracker here: https://amandamcox.github.io/mood-start-page/startpage.html
+
 ### Screenshots
 ![Entering your mood](https://github.com/amandamcox/mood-start-page/blob/master/Enter-Your-Mood.png)
 

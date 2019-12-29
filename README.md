@@ -3,6 +3,11 @@
 ### Description
 A mood tracking app using vanilla javascript and localstorage. This app can be used as a starting page in your browser, so you remember to track your moods regularly.
 
+### Screenshots
+![Entering your mood](https://github.com/amandamcox/mood-start-page/blob/master/Enter-Your-Mood.png)
+
+![Viewing moods on calendar](https://github.com/amandamcox/mood-start-page/blob/master/Calendar-Example.png)
+
 ### How to Use
 - Track if you're feeling happy, anxious, angry, or sad
 - Track the reasoning why you feel that way

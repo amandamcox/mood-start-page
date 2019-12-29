@@ -36,7 +36,7 @@ const displayCalendar = (year, month) => {
 
         document.getElementById('previous-month-button').innerHTML = `<input type="button" onclick="displayCalendar(${year}, ${month - 1})" value="View ${monthNames[month - 1]} ${year} Data" />`
 
-        if (month != thisMonth) {
+        if (month != thisMonth || year != thisYear) {
             document.getElementById('current-month-button').innerHTML = `<input type="button" onclick="displayCalendar(${thisYear}, ${thisMonth})" value="Back to ${monthNames[thisMonth]} ${thisYear}" />`
         }
         else {

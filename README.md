@@ -13,7 +13,7 @@ A mood tracking app using vanilla javascript and localstorage. This app can be u
 ### How to Install
 *Directions below are for Chrome*
 
-1. Download the JS, CSS, and HTML files
+1. Download the JS, CSS, and HTML files into the same folder on your computer
 2. Open the HTML file in your browser
 3. Copy the URL for the file
 4. Open your browser's Settings menu

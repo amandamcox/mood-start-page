@@ -31,3 +31,6 @@ View a preview of the mood tracker here: https://amandamcox.github.io/mood-start
 8. Close and reopen your browser
 
 The new start page will now be the mood tracker!
+
+### Chrome Extension
+If a start page isn't visible enough, try making it into your new tab page. See https://github.com/amandamcox/mood-tracker-new-tab

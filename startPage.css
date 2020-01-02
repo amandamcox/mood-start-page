@@ -153,15 +153,14 @@ input[type=button] {
 }
 
 #past-calendar {
-    display: flex;
-    flex-flow: row wrap;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: 14% 14% 14% 14% 14% 14% 14%;
 }
 
 #past-calendar div {
-    flex-basis: 11%;
     border: 1px solid #808080;
     min-height: 100px;
-    margin: 3px;
     padding: 7px;
     border-radius: 4px;
 }
